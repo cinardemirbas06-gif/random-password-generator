@@ -35,8 +35,7 @@ time – Tarih & saat bilgisi eklemek için
 
 💻 Kurulum ve Çalıştırma
 1️⃣ Projeyi İndirin
-git clone https://github.com/KULLANICI_ADIN/password-generator-cli.git
-cd password-generator-cli
+git clone (https://github.com/cinardemirbas06-gif/random-password-generator/blob/main/README.md)
 
 2️⃣ Uygulamayı Başlatın
 python sifre_olusturucu.py
